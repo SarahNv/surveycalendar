@@ -1,0 +1,5 @@
+﻿calendarID,title,body,recurrenceRule,start,end,category,location,bgColor,color,borderColor,Contact,Contact Email,Population
+1,Survey 1,This project surveys freshman at UT to measure their satisfaction with advising,,2/14/22,2/21/22,allday,,#ff5a00,white,#ff5a00,Jane Doe,jdoe@utk.edu,Freshman
+2,Survey 2,This project surveys seniors on their social experiences at UT,,3/1/22,3/8/22,allday,,#5E81AC,white,#5E81AC,Adam Kerr,akerr@utk.edu,Seniors
+3,Survey 3,This project surveys graduate students on their student life experience,,2/17/22,1/24/22,allday,,#58595B,white,#58595B,Banana Phone,bphone@utk.edu,Graduate Students
+4,Survey 4,This projects surveys all students on their satisfaction with on-campus food options,,2/23/22,3/9/22,allday,,#006C93,white,#006C93,Amanda Rumi,arumi@utk.edu,All students
